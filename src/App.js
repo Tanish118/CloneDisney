@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 import './App.css';
 import Detail from'./components/Detail'
 import Header from './components/Header'
