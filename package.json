@@ -1,5 +1,5 @@
 {
-  "homepage":"http://Tanish118.github.io/CloneDisney/",
+ 
   "name": "disney_clone",
   "version": "0.1.0",
   "private": true,
@@ -20,7 +20,7 @@
     "slick-carousel": "^1.8.1",
     "styled-components": "^5.2.3"
   },
-  "scripts": {
+  "scripts": {    
     "predeploy":"npm run build",
     "deploy":"gh-pages -d build",
     "start": "react-scripts start",
